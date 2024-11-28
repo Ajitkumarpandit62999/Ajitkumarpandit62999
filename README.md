@@ -3,7 +3,7 @@
 
 
 
-## Hi there 👋
+## Hi there 👋,  I'm Ajit Kumar Pandit
 
 
 - 🔭 I’m currently working on youtube mern stack project
