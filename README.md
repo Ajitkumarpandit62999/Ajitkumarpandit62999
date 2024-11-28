@@ -7,12 +7,19 @@
 
 
 - 🔭 I’m currently working on youtube mern stack project
+  
 - 🌱 I’m currently learning backend
-- 👯 I’m looking to collaborate on full-stack web applications 
+  
+- 👯 I’m looking to collaborate on full-stack web applications
+  
 - 🤔 I’m looking for help with optimizing backend performance
+ 
 - 💬 Ask me about MongoDB, Express.js, React.js, Node.js , Tailwind CSS
+  
 - 📫 How to reach me: linkedin.com/in/ajit-kumar-pandit-25b737245/
+ 
 - 😄 Pronouns: Mard ka baccha 👶😉
+  
 - ⚡ Fun fact: I think debugging is like solving mysteries… with no clues. 🕵️‍♂️😂
 
 ### Tech Stack:
