@@ -15,8 +15,8 @@
         <li>😄 Pronouns: Mard ka baccha 😎</li>
         <li>⚡ Fun fact: I think debugging is like solving mysteries... with no clues. 🕵️‍♂️😂</li>
       </ul>
-    </td>
-    <td style="border: none;>
+    </td style="border: none;">
+    <td style="border: none;">
       <img src="giphy.gif" alt="Coding GIF" width="250">
     </td>
   </tr>
