@@ -11,7 +11,8 @@
         <li>🤝 I’m looking to collaborate on full-stack web applications</li>
         <li>🤔 I’m looking for help with optimizing backend performance</li>
         <li>💬 Ask me about MongoDB, Express.js, React.js, Node.js, Tailwind CSS</li>
-        <li>📫 How to reach me: [Ajit Kumar Pandit on LinkedIn](https://linkedin.com/in/ajit-kumar-pandit-25b737245/)</li>
+        <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ajit-kumar-pandit-25b737245/" target="_blank">Ajit Kumar Pandit on LinkedIn</a></li>
+
         <li>😄 Pronouns: Mard ka baccha 😎</li>
         <li>⚡ Fun fact: I think debugging is like solving mysteries... with no clues. 🕵️‍♂️😂</li>
       </ul>
