@@ -5,8 +5,15 @@
 
 ## Hi there 👋,  I'm Ajit Kumar Pandit
 
+<div style="float: right; width: 50%; border: 1px solid black; padding: 10px;">
+  <iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
-- 🔭 I’m currently working on youtube mern stack project                      <div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%"                                                                                             style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>                                                                                                                                                                         </iframe></div><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p                                                                                                                                                      
+
+
+
+
+- 🔭 I’m currently working on youtube mern stack project                                                                                                                                                                   
 - 🌱 I’m currently learning backend
   
 - 👯 I’m looking to collaborate on full-stack web applications
