@@ -5,15 +5,10 @@
 
 ## Hi there 👋,  I'm Ajit Kumar Pandit
 
-<div style="float: right; width: 50%; border: 1px solid black; padding: 10px;">
-  <iframe src="[https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3kydWp3aXBseTVxZzE4Y3VlcHY1cGRyc3piMjVzemo1M3E4aDc5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-
-
-
-
-
-- 🔭 I’m currently working on youtube mern stack project                                                                                                                                                                   
+- 🔭 I’m currently working on youtube mern stack project
+  <p align="right>
+    <img  src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3kydWp3aXBseTVxZzE4Y3VlcHY1cGRyc3piMjVzemo1M3E4aDc5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
+  </p>                                                                                                                                                                 
 - 🌱 I’m currently learning backend
   
 - 👯 I’m looking to collaborate on full-stack web applications
