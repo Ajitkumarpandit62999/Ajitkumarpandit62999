@@ -16,8 +16,10 @@
       <li>⚡ Fun fact: I think debugging is like solving mysteries... with no clues. 🕵️‍♂️😂</li>
     </ul>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="giphy.gif" alt="Coding GIF" width="250" />
-  </div>
+
+  <div style="width:100%;height:0;padding-bottom:63%;position:relative;">
+  <iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+  </iframe></div><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a>
+  </p>
 </div>
 
