@@ -17,7 +17,7 @@
       </ul>
     </td >
     <td style="border: none;">
-      <img src="https://ibb.co/SvDz7rK" alt="Coding GIF" width="250">
+    <img src="https://i.ibb.co/q1LvF5R/work-internet.gif" alt="work-internet" border="0">
     </td>
   </tr>
 </table>
