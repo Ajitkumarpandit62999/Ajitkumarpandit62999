@@ -10,7 +10,7 @@
     <td>
       <h1>Hi there 👋, I'm Ajit Kumar Pandit</h1>
       <ul>
-        <li>💡 I’m currently working on a YouTube MERN stack project</li>
+        <li>💡 I’m currently working on a YouTube Backend Project</li>
         <li>🌱 I’m currently learning backend</li>
         <li>🤝 I’m looking to collaborate on full-stack web applications</li>
         <li>🤔 I’m looking for help with optimizing backend performance</li>
