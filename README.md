@@ -21,7 +21,8 @@
       </ul>
     </td >
     <td style="border: none;">
-    <img src="https://i.ibb.co/q1LvF5R/work-internet.gif" alt="work-internet" border="0">
+
+   <img src="https://github.com/user-attachments/assets/e63e7f93-9da7-4e7f-8deb-88768a96512a" alt="work-internet" border="0"> 
     </td>
   </tr>
 </table>
